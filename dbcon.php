@@ -1,6 +1,6 @@
 <?php 
 error_reporting(1);
-$con = mysqli_connect("localhost","root","","database");
+$con = mysqli_connect("localhost","root","","dipam");
 
 // Check connection
 if (!$con)
